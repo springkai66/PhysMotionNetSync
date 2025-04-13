@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PhysMotionNetSync.cpp.obj": [
+			"PhysicsAsyncCallback.cpp.obj",
+			"PhysMotionNetSync.cpp.obj"
+		]
+	}
+}

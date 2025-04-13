@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physmotionnetsync\\module.physmotionnetsync.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\wck\\unrealengine-5.3.2-release\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\physmotionnetsync\\definitions.physmotionnetsync.h",
+            "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\source\\physmotionnetsync\\private\\physics\\physasynccallback.cpp",
+            "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\source\\physmotionnetsync\\public\\physics\\physasynccallback.h",
+            "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\source\\physmotionnetsync\\private\\physmotionnetsync.cpp",
+            "d:\\wck\\myproject\\vehicle\\plugins\\physmotionnetsync\\source\\physmotionnetsync\\public\\physmotionnetsync.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
